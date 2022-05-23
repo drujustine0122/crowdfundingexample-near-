@@ -1,0 +1,1 @@
+e:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\greeter.wasm: e:\Exercise\crowdfundDapp\contract\src\lib.rs e:\Exercise\crowdfundDapp\contract\src\models.rs e:\Exercise\crowdfundDapp\contract\src\utils.rs

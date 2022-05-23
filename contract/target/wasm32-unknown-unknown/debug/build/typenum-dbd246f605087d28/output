@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=E:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\build\typenum-dbd246f605087d28\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=E:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\build\typenum-dbd246f605087d28\out\op.rs

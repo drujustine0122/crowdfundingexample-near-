@@ -1,0 +1,12 @@
+E:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\deps\sha2-d101e68cad7acf8d.rmeta: C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\lib.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\consts.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256\soft.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512\soft.rs
+
+E:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\deps\libsha2-d101e68cad7acf8d.rlib: C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\lib.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\consts.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256\soft.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512\soft.rs
+
+E:\Exercise\crowdfundDapp\contract\target\wasm32-unknown-unknown\debug\deps\sha2-d101e68cad7acf8d.d: C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\lib.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\consts.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256\soft.rs C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512\soft.rs
+
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\lib.rs:
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\consts.rs:
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256.rs:
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512.rs:
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha256\soft.rs:
+C:\Users\SnoWon\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.9.3\src\sha512\soft.rs:
